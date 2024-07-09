@@ -13,7 +13,7 @@ This section contains a general overview of topics that you will learn in this l
 
 ### Setting up a grid
 
-This lesson will show you how easy it is to make a grid layout without much work. In upcoming lessons, you will find out more about positioning and how to make complex grids, but for now we’ll start with something basic.
+This lesson will show you how easily you can make a grid layout without much work. In upcoming lessons, you will find out more about positioning and how to make complex grids, but for now we’ll start with something basic.
 
 #### Grid container
 
